@@ -10,3 +10,4 @@ venv\Scripts\activate
 pip install -r requirements.txt
 python manage.py check
 python manage.py runserver
+py manage.py createsuperuser
